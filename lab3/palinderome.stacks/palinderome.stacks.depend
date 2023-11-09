@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692247372 source:d:\220911634\lab3\palinderome.stacks\main.c
+	<stdio.h>
+	<string.h>
+
