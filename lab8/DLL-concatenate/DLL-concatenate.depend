@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696481958 source:d:\220911634\lab8\dll-concatenate\main.c
+	<stdio.h>
+	<stdlib.h>
+
